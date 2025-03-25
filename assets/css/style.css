@@ -533,11 +533,11 @@ img {
 }
 
 .skills__reactjs {
-  width: 30%;
+  width: 70%;
 }
 
-.skills__reactnative{
-  width: 60%;
+.skills__node{
+  width: 50%;
 }
 
 .skills__elementor {
@@ -553,9 +553,7 @@ img {
 .skills__java {
   width: 85%;
 }
-.skills__c {
-  width: 62%;
-}
+
 .skills__adobeillustrator {
   width: 62%;
 }
