@@ -1,6 +1,3 @@
-**#site url:**  https://portfolio-2-eok4.onrender.com/
-
-
 # Professional Portfolio Website
 
 ## Overview
