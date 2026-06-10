@@ -533,11 +533,17 @@ img {
 }
 
 .skills__reactjs {
-  width: 70%;
+  width: 80%;
 }
 
 .skills__node{
   width: 50%;
+}
+.skills__express{
+  width: 70%;
+}
+.skills__mongodb{
+  width: 75%;
 }
 
 .skills__elementor {
