@@ -6,7 +6,7 @@ Professional Portfolio Website is a personal branding platform developed to show
 
 The portfolio demonstrates my technical capabilities through project showcases, certifications, service offerings, and professional achievements while maintaining a modern and responsive user experience.
 
-**Live Demo:** https://portfolio-2-eok4.onrender.com/
+**Live Demo:** https://portfolio-2-4e5c.onrender.com
 
 ---
 
